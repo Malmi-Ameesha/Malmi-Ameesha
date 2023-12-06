@@ -25,7 +25,7 @@
  <a href="https://www.linkedin.com/in/malmee-ameesha-944b1022b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ameesha"/>
  </a>
- <a href="[https://instagram.com/alsiam_dev](https://www.instagram.com/malmi_ameesha/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)" target="_blank">
+ <a href="https://www.instagram.com/malmi_ameesha/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ameesha" />
  </a> 
  <a href="https://www.facebook.com/malmi.ameesha.96" target="_blank">
