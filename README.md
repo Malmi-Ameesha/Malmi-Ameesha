@@ -42,7 +42,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me malmiameesha123@gmail.com<br/><br/>
+ 📧 &emsp; Reach me ameeshamalmee@gmail.com<br/><br/>
 
 </p>
 
